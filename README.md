@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](https://metrics.lecoq.io/i-bing)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i-bing)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-bing&theme=dark&layout=compact)
